@@ -1,0 +1,18 @@
+.footer_list{
+    display: flex;
+    justify-content: center;
+    
+}
+.ddd{
+    list-style: none;
+    padding:0px 8px;
+    
+    
+}
+.footer_link{
+    text-decoration: none;
+    color: black;
+}
+.footer_link:hover{
+    color: brown;
+}

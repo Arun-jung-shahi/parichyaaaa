@@ -1,0 +1,8 @@
+.registration{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2px;
+    border: 2px solid black;
+    
+}

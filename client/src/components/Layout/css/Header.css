@@ -1,0 +1,31 @@
+.ccc{
+    text-decoration: none;
+    color: black;
+  
+}
+
+.bbb{
+    list-style: none;
+    padding: 20px;
+    
+    
+    
+}
+
+.menu_list{
+  display: flex;
+  justify-content:flex-end;
+  background-color:grey ;
+  align-items: center;
+  
+    
+}
+
+.ccc:hover{
+    color: brown;
+}
+.fa-shopping-basket{
+    font-size: 25px;
+    margin-right:40% ;
+    
+}
